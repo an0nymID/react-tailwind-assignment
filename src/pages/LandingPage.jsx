@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import CardProducts from '../components/CardProducts';
+import CardProducts from '../components/CardManga';
 import Footer from '../components/Footer';
 import Header from '../components/Header';
 import Pagination from '../components/Pagination';

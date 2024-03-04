@@ -1,6 +1,6 @@
 import { createBrowserRouter } from "react-router-dom";
 import LandingPage from "../pages/LandingPage";
-import DetailProduct from "../pages/DetailProduct";
+import DetailProduct from "../pages/DetailManga";
 
 export const router = createBrowserRouter([
   {
